@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@import "reset.css";
+@import "variables.css";
+
+/* components */
+@import "components/header.css";
+
+/* screens */
+@import "screens/mainpage.css";
+@import "screens/notice.css";
+
+body {
+  background-color: #0f151a;
+}
+
+.schedule-main {
+  padding: 40px;
+}
+
+.schedule-container {
+  width: 100%;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.schedule-date {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.schedule-div {
+  display: flex;
+  padding-top: 40px;
+}
+
+.schedule-time {
+  font-weight: 600;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+}
+
+.schedule-team__div {
+  display: flex;
+  align-items: center;
+}
+
+.schedule-team__p {
+  font-weight: 600;
+  margin-left: 50px;
+  font-size: 20px;
+}
