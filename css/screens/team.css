@@ -4,7 +4,7 @@
 
 .team-div {
   border: 1px solid black;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
   width: 100%;
@@ -27,4 +27,13 @@
   align-items: center;
   margin-left: 15px;
   font-weight: 500;
+}
+
+@media screen and (max-width: 1000px) {
+  .notice-div__team {
+    font-size: 14px;
+  }
+  .notice-div__player {
+    font-size: 14px;
+  }
 }
