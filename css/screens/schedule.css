@@ -1,0 +1,37 @@
+.schedule-main {
+  padding: 40px;
+}
+
+.schedule-container {
+  width: 100%;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.schedule-date {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.schedule-div {
+  display: flex;
+  padding-top: 40px;
+}
+
+.schedule-time {
+  font-weight: 600;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+}
+
+.schedule-team__div {
+  display: flex;
+  align-items: center;
+}
+
+.schedule-team__p {
+  font-weight: 600;
+  margin-left: 50px;
+  font-size: 20px;
+}

@@ -1,0 +1,19 @@
+.main-news {
+  display: flex;
+  flex-direction: column;
+  color: rgb(215, 215, 215);
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.main-news__span {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.main-news__a {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #6499e9;
+}

@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@import "reset.css";
+@import "variables.css";
+
+/* components */
+@import "components/header.css";
+
+/* screens */
+@import "screens/mainpage.css";
+@import "screens/notice.css";
+@import "screens/schedule.css";
+@import "screens/team.css";
+@import "screens/table.css";
+
+body {
+  background-color: #0f151a;
+}

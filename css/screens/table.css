@@ -1,0 +1,42 @@
+.tg {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: white;
+  overflow: scroll;
+}
+.tg td {
+  border-color: #8fa2b0;
+  border-style: solid;
+  border-left: 0;
+  border-right: 0;
+  border-width: 1px;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  word-break: normal;
+}
+.tg th {
+  border-color: #8fa2b0;
+  border-style: solid;
+  border-width: 1px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  word-break: normal;
+  color: white;
+}
+.tg .tg-ihln {
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+  color: rgb(196, 197, 215);
+}
