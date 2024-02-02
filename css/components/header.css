@@ -33,7 +33,7 @@
 }
 
 @media screen and (max-width: 1000px) {
-  grade-body {
+  .grade-body {
     width: 100%;
   }
   .screen-header {
